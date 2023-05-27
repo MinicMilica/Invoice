@@ -1,0 +1,30 @@
+.columnsDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 5px 0 5px;
+}
+.name{
+    width: 150px;
+}
+.price{
+    width: 60px;
+}
+.quantity {
+    width: 40px
+}
+.measurement {
+    width: 40px;
+}
+.currency{
+    width: 30px;
+}
+h5 {
+    color: #2B2E40;
+}
+.buttonAdd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px 40px 20px;
+}

@@ -1,0 +1,33 @@
+.item {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    border-bottom: 2px solid #31B19A;
+    cursor: pointer;
+    gap: 15px;
+}
+.item:hover {
+    background-color: #DAD5EC;
+    border-radius: 20px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+h4 {
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+}
+h3{
+    font-size: 18px;
+}
+.h3Item {
+    color:#462D93;
+}
+.h3late{
+    color: red;
+    font-weight: 600;
+}

@@ -1,0 +1,9 @@
+.constainerList {
+    width: 90%;
+    min-height: 80px;
+    border: 3px solid #462D93;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}

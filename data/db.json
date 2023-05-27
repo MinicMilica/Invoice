@@ -1,0 +1,190 @@
+{
+  "inovices": [
+    {
+      "id": "1",
+      "invoiceDate": "2023-05-22",
+      "timeOfIssue": "10:53",
+      "dateOfPayment": "2023-05-30",
+      "dateOfDelivery": "2023-05-22",
+      "theName": "Duga d.o.o.",
+      "address": "Lala b.b. Beograd",
+      "email": "dadad@gmail.com",
+      "callNumber": "+381456764",
+      "methodOfPayment": "Cash payment",
+      "invoiceStatus": "Paid",
+      "Note": "Note",
+      "listItems": [
+        {
+          "id": "sdfasdfadsfasdf",
+          "name": "pencil",
+          "price": "3",
+          "currency": "$",
+          "quantity": "15",
+          "measurementUnit": ""
+        },
+        {
+          "id": "fdhgfgh",
+          "name": "printer toner",
+          "price": "15",
+          "currency": "$",
+          "quantity": "3",
+          "measurementUnit": ""
+        },
+        {
+          "id": "bgfgsfddvswdfv",
+          "name": "glue",
+          "price": "5",
+          "currency": "$",
+          "quantity": "3",
+          "measurementUnit": "l"
+        }
+      ]
+    },
+    {
+      "numberInvoice": "2ab",
+      "invoiceDate": "2023-05-26",
+      "timeOfIssue": "21:42",
+      "dateOfPayment": "2023-05-26",
+      "dateOfDelivery": "2023-05-26",
+      "theName": "New company",
+      "address": "123 Main Street New York, NY 10001",
+      "email": "new@gmail.com",
+      "callNumber": "01145668",
+      "methodOfPayment": "Cash payment",
+      "invoiceStatus": "Paid",
+      "Note": "",
+      "listItems": [
+        {
+          "id": "83458133-7100-4e92-9bd0-d84407b17431",
+          "name": "book",
+          "price": "3",
+          "currency": "€",
+          "quantity": "10",
+          "measurmentUnit": "piece"
+        },
+        {
+          "id": "a5be4bf4-9825-4c01-aa97-cb3a8dcdd634",
+          "name": "scissors",
+          "price": "5",
+          "currency": "€",
+          "quantity": "5",
+          "measurmentUnit": "piece"
+        },
+        {
+          "id": "ff79fb44-340a-4ebc-8340-788f7aeb1ecc",
+          "name": "glue",
+          "price": "6",
+          "currency": "€",
+          "quantity": "3",
+          "measurmentUnit": "l"
+        }
+      ]
+    },
+    {
+      "id": "2B",
+      "invoiceDate": "2023-05-27",
+      "timeOfIssue": "13:14",
+      "dateOfPayment": "2023-05-27",
+      "dateOfDelivery": "2023-05-27",
+      "theName": "Como.a.d.",
+      "address": "123 Main Street New York, NY 10001",
+      "email": "comoc@gmail.com",
+      "callNumber": "065784322",
+      "methodOfPayment": "Cash payment",
+      "Note": "For more information, please call +345678.",
+      "invoiceStatus": "Outstanding",
+      "listItems": [
+        {
+          "id": "265c8365-27a8-4ea4-b9f8-5bde3da9e8b5",
+          "name": "printer paper",
+          "price": "10",
+          "currency": "$",
+          "quantity": "20",
+          "measurmentUnit": "piece"
+        },
+        {
+          "id": "76054871-2e50-48f5-a9a9-9a4e8b9ca30c",
+          "name": "pencil",
+          "price": "3",
+          "currency": "$",
+          "quantity": "30",
+          "measurementUnit": "piece"
+        }
+      ]
+    },
+    {
+      "id": "3b",
+      "invoiceDate": "2023-05-27",
+      "timeOfIssue": "13:30",
+      "dateOfPayment": "2023-05-27",
+      "dateOfDelivery": "2023-05-27",
+      "theName": "Pipin company",
+      "address": "123 Main Street New York, NY 10001",
+      "email": "pipin@gmail.com",
+      "callNumber": "011345677",
+      "methodOfPayment": "Cash payment",
+      "invoiceStatus": "Outstanding",
+      "Note": "For more information, please call +345678.",
+      "listItems": [
+        {
+          "id": "4c9d905a-c713-41cd-8404-5a8a19950b10",
+          "name": "hour",
+          "price": "6",
+          "currency": "$",
+          "quantity": "60",
+          "measurementUnit": "h"
+        }
+      ]
+    },
+    {
+      "id": "145",
+      "invoiceDate": "2023-05-27",
+      "timeOfIssue": "14:09",
+      "dateOfPayment": "2023-06-27",
+      "dateOfDelivery": "2023-05-27",
+      "theName": "Coco",
+      "address": "123 Main Street New York, NY 10001",
+      "email": "coco@gmail.com",
+      "callNumber": "123345456",
+      "methodOfPayment": "Cash payment",
+      "nvoiceStatus": "Paid",
+      "Note": "",
+      "invoiceStatus": "Outstanding",
+      "listItems": [
+        {
+          "id": "c576135d-fcc2-46c2-8604-3bffb397be6a",
+          "name": "hour",
+          "price": "15",
+          "currency": "€",
+          "quantity": "10",
+          "measurementUnit": "h"
+        }
+      ]
+    },
+    {
+      "id": "23b",
+      "invoiceDate": "2023-05-27",
+      "timeOfIssue": "15:49",
+      "dateOfPayment": "2023-05-27",
+      "dateOfDelivery": "2023-05-27",
+      "theName": "HG",
+      "address": "1234 S Main St Los Angeles, CA 90015",
+      "email": "hg@gmail.com",
+      "callNumber": "74836347683",
+      "methodOfPayment": "Cash payment",
+      "nvoiceStatus": "Paid",
+      "Note": "",
+      "invoiceStatus": "Outstanding",
+      "listItems": [
+        {
+          "id": "d895f7f1-1098-433e-aa35-d2daf18ad055",
+          "name": "hour",
+          "price": "15",
+          "currency": "$",
+          "quantity": "10",
+          "measurementUnit": "h"
+        }
+      ]
+    }
+  ]
+}

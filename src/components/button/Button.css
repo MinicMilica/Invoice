@@ -1,0 +1,21 @@
+button {
+    width: fit-content;
+    height: 50px;
+    background-color: #fff;
+    border:3px solid #462D93;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: #462D93;
+}
+button:hover {
+    background-color:  #31B19A;
+    color: #fff;
+  }
+
+.buttonH3 {
+    font-size: 18px;
+    padding: 5px;
+}
